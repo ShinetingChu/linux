@@ -1,4 +1,4 @@
-# linux
+# Linux
 something about linux
 
 ## python
