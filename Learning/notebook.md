@@ -2,7 +2,7 @@
 
 # 学习资源
 
-  1. 教学视频
+  1. [B站教学视频](https://www.bilibili.com/video/BV1mW411i7Qf?p)
   
   2. VMware
   
